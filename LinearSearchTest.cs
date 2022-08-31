@@ -26,7 +26,7 @@ for (int i = 0; i < 5; i++)
         Console.WriteLine($"The integer {searchInt} was found in " +
             $"position {position}.\n");
 
-        //GenerateRandomInts();
+        GenerateRandomInts();
     }
     else // Integer was not found
     {
